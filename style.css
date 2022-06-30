@@ -7,6 +7,9 @@
 	background-color: var(--colour5);
 }
 
+p{
+	margin-left: 40px;
+
 ul.navbar{
 	list-style-type: none;
 	margin: 0;
