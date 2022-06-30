@@ -1,0 +1,37 @@
+:root{
+	--colour1: #8ECAE6;
+	--colour2: #219EBC;
+	--colour3: #023047;
+	--colour4: #FFB703;
+	--colour5: #FB8500;
+	background-color: var(--colour5);
+}
+
+ul.navbar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: var(--colour1);
+}
+
+ul.navbar li{
+	float: left;
+}
+
+ul.navbar li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	background-color: var(--colour1);
+}
+
+ul.navbar li a:hover{
+	background-color: var(--colour2);
+}
+
+ul.navbar li a.active{
+	background-color: var(--colour2);
+}
