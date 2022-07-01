@@ -3,8 +3,9 @@
 	--colour2: #219EBC;
 	--colour3: #023047;
 	--colour4: #FFB703;
-	--colour5: #fcdf03 ;
+	--colour5: #fcdf03;
 	background-color: var(--colour5);
+	font-size: 150%;
 }
 
 p{
@@ -16,11 +17,6 @@ h1, h2, h3, h4, h5, h6{
 	font-family: Georgia;
 	margin-left: 20%;
 }
-
-img{
-	float: left;
-}
-
 ul.navbar{
 	list-style-type: none;
 	margin: 0;
