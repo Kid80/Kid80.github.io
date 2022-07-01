@@ -5,15 +5,16 @@
 	--colour4: #FFB703;
 	--colour5: #fcdf03 ;
 	background-color: var(--colour5);
-	margin-left: 120px;
 }
 
 p{
 	font-family: Arial;
+	margin-left: 5%;
 }
 
 h1{
 	font-family: Georgia;
+	margin-left: 5%;
 }
 ul.navbar{
 	list-style-type: none;
