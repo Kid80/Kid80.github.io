@@ -1,4 +1,1 @@
-function OnLoad(){
-	window.applicationCache.swapCache()
-	alert("JS running")
-}
+alert("JS running")
