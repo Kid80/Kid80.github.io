@@ -5,10 +5,10 @@
 	--colour4: #FFB703;
 	--colour5: #fcdf03 ;
 	background-color: var(--colour5);
+	margin-left: 40px;
 }
 
 p{
-	margin-left: 40px;
 	font-family: Arial;
 }
 
