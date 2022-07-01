@@ -9,6 +9,11 @@
 
 p{
 	margin-left: 40px;
+	font-family: Arial;
+}
+
+h1{
+	font-family: Georgia;
 
 ul.navbar{
 	list-style-type: none;
