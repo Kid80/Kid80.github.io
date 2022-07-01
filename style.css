@@ -21,6 +21,7 @@ ul.navbar{
 	padding: 0;
 	overflow: hidden;
 	background-color: var(--colour1);
+	margin-left: 0;
 }
 
 ul.navbar li{
