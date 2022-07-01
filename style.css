@@ -39,7 +39,3 @@ ul.navbar li a{
 ul.navbar li a:hover{
 	background-color: var(--colour2);
 }
-
-ul.navbar li a.active{
-	background-color: var(--colour2);
-}
